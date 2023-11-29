@@ -13,7 +13,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  * @Date 2023/11/27 23:16
  */
 @Configuration
-@Aspect
+//@Aspect
 @Slf4j
 public class TimeAspect implements WebMvcConfigurer {
 
